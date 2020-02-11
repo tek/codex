@@ -2,7 +2,7 @@ resolver: lts-6.35
 packages:
   - '.'
 extra-deps:
-  - directory-1.2.7.1
+  - directory-1.3.6.9
 flags: {}
 extra-package-dbs: []
 nix:
